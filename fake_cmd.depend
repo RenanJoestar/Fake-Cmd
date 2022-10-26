@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666630654 source:c:\dev\github\fake-cmd\fake_cmd\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666761259 source:c:\dev\github\fake-cmd\main.c
+	<stdio.h>
+	<stdlib.h>
+
